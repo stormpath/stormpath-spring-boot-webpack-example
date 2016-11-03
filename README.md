@@ -10,7 +10,12 @@ This is the code developed in the [tutorial on using Webpack with a React app](h
 
 ### Configuration
 
-First you need to edit `application.properties` and put in your Stormpath application keys.
+First you need to ensure you have your Stormpath API key at `~/.stormpath/apiKey.properties`, or add it to `application.properties` as follows:
+
+```
+stormpath.client.apiKey.id = <your api key id>
+stormpath.client.apiKey.secret = <your api key secret>
+```
 
 ### Installation
 
