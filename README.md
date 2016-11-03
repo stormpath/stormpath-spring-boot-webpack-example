@@ -1,6 +1,6 @@
 # Webpack and React
 
-This is the code developed in the tutorial on using Webpack with a React app.
+This is the code developed in the [tutorial on using Webpack with a React app](https://stormpath.com/blog/optimize-react-webpack).
 
 ### Requirements
 
